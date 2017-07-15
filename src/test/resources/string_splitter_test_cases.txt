@@ -1,0 +1,21 @@
+This is a long sentence./This/ is a long sentence.
+This is a long sentence./en/This is a long s,t,ce.
+This is a long sentence./This is a long sentence/.
+This is a long sentence./This is a long sentence./
+//
+/asdfasdf/
+This is a long sentence.//This is a long sentence.
+  a/ /a
+  a  / /a
+a  / /a
+a b c d/ /a,b,c,d
+ a b c d/ /a,b,c,d
+a b c d / /a,b,c,d
+a   b   c d/ /a,b,c,d
+a   b c d/ /a,b,c,d
+a   b  c    d/ /a,b,c,d
+a   b  c        d/ /a,b,c,d
+a         b  c    d/ /a,b,c,d
+a   b  c    d       / /a,b,c,d
+        a   b  c    d/ /a,b,c,d
+This is a sentence./ /This,is,a,sentence.
